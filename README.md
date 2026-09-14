@@ -10,6 +10,15 @@
 
 ---
 
+Role: Recruiter
+Email: Sumitsingh@gmail.com
+Password: sumitsingh
+
+
+Role: Student
+Email: nitesh11@gmail.com
+Password: nites
+
 
 A full-stack **Job Portal** web application built using the **MERN Stack** that connects **job seekers** with **recruiters**. Students can search and apply for jobs, while recruiters can manage companies, post jobs, and review applications through a secure and user-friendly platform.
 
